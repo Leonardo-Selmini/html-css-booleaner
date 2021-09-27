@@ -50,3 +50,23 @@
 #p-list {
   padding-inline-start: 20px;
 }
+
+/************* style main - section "table" ****************/
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.cell {
+  width: 33.33333333%;
+  border: 1px solid black;
+}
+
+#tr-head {
+  height: 40px;
+  background-color: rgb(66,103,178);
+}
+
+.tr-body {
+  height: 60px;
+  background-color: rgb(161, 184, 230) ;
+}
