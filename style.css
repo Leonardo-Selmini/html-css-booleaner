@@ -70,3 +70,18 @@ table {
   height: 60px;
   background-color: rgb(161, 184, 230) ;
 }
+
+/************** style - footer **************/
+.container-p {
+  position: relative;
+}
+
+.f-photo {
+  margin-bottom: 10px;
+}
+
+.over-text {
+  color: white;
+  position: absolute;
+  margin: -210px 0px 0px 80px;
+}
