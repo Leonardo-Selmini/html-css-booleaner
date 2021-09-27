@@ -23,11 +23,17 @@
   margin-block-end: 0;
 }
 
-#date {
+.date {
   font-size: 20px;
   margin-block-start: 5px;
+  font-style: italic;
 }
 
 .grey {
   color: grey;
+}
+
+/************ style main - section "photo" ************/
+.img-lee {
+  height: 500px;
 }
