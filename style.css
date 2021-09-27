@@ -1,0 +1,12 @@
+/* style header */
+#box-logo {
+  background-image: url(img/pattern.png);
+  background-size: 280px;
+  background-repeat: repeat-x;
+  background-color: rgb(66,103,178);
+}
+
+#logo {
+  height: 40px;
+  margin: 30px 0 0 10px;
+}
