@@ -37,3 +37,16 @@
 .img-lee {
   height: 500px;
 }
+
+/************ style main - section "paragraph" ************/
+.mark {
+  background-color: rgb(250, 250, 135);
+}
+
+.text {
+  font-size: 20px;
+}
+
+#p-list {
+  padding-inline-start: 20px;
+}
